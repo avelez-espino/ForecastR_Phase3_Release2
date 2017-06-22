@@ -1,0 +1,11 @@
+Series: series 
+ARIMA(0,0,0) with non-zero mean 
+Box Cox transformation: lambda= 0.4443295 
+
+Coefficients:
+      intercept
+       246.1959
+s.e.    14.4268
+
+sigma^2 estimated as 8123:  log likelihood=-224.46
+AIC=452.92   AICc=453.26   BIC=456.19
